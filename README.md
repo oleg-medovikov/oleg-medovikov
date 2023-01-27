@@ -7,6 +7,8 @@
 Репы: 
 
 [arhmbot](https://github.com/oleg-medovikov/arhmbot)
+[arhmapi](https://github.com/oleg-medovikov/arhmapi)
+[miac_worker](https://github.com/oleg-medovikov/miac_worker)
 
 <!--
 **oleg-medovikov/oleg-medovikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
