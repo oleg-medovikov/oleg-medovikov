@@ -4,7 +4,7 @@
 ![oleg GitHub stats](https://github-readme-stats.vercel.app/api?username=oleg-medovikov)
 
 
-Репы
+Репы \\
 [arhmbot](https://github.com/oleg-medovikov/arhmbot)
 
 <!--
