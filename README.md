@@ -7,7 +7,6 @@
 ## Репы: 
 
 * [arhmbot](https://github.com/oleg-medovikov/arhmbot)
-* [arhmapi](https://github.com/oleg-medovikov/arhmapi)
 * [miac_worker](https://github.com/oleg-medovikov/miac_worker)
 * [old_bot](https://github.com/oleg-medovikov/telegram_bot/tree/master/lin)
 
